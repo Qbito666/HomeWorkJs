@@ -1,0 +1,12 @@
+let name = "Алексей";
+let town = "Волгоград";
+console.log(`Я ${name} проживаю в ${town}`);
+let a = 12;
+let b = 25;
+console.log(`12 + 25 = ${a + b},12 - 25 = ${a - b},12 / 25 = ${a / b},12 * 25 = ${a * b}`);
+var x = prompt("сколько вам лет?", "Ввудите сюда");
+console.log(x);
+var y = prompt("Кака вас зовут?", "Ввудите имя");
+console.log(y);
+var i = alert(`Добро пожаловать ${y}`);
+console.log(i);
